@@ -1,2 +1,3 @@
-# this is my first test program
-# hello, world!
+# write head
+- this is my first test program
+- this program is a python test program
