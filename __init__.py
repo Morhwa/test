@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 
 from nanoi import *
-nanoi(5)
+nanoi(3)
